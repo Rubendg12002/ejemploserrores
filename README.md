@@ -88,10 +88,12 @@ Mantenibilidad: Permite agregar nuevas clases sin modificar archivos de configur
 Eficiencia de memoria: Lazy Loading carga clases solo cuando se necesitan, mejorando el rendimiento.
 Estandarización: Seguir PSR-4 facilita la colaboración entre desarrolladores y mejora la comprensión del proyecto.
 
-Ruben Dominguez 8-988-2361
-SoftwareVII 
-ruben.dominguez1@utp.ac.pa
+
 10. Higiene del repositorio
 Incluir archivo .gitignore con al menos:
 /vendor/
 /*.log
+
+Ruben Dominguez 8-988-2361
+SoftwareVII 
+ruben.dominguez1@utp.ac.pa
